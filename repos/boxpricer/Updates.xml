@@ -11,11 +11,11 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="24223159" OS="Any" CompressedSize="7103478"/>
+  <UpdateFile CompressedSize="7103478" UncompressedSize="24223159" OS="Any"/>
   <DownloadableArchives>bin.7z,data.7z,resources.7z</DownloadableArchives>
   <Licenses>
-   <License file="GNUPLicenseV3.txt" name="GNU General Public License version 3"/>
+   <License name="GNU General Public License version 3" file="GNUPLicenseV3.txt"/>
   </Licenses>
-  <SHA1>9623a6caca798c47851f9bdcf6962deeaa552ff7</SHA1>
+  <SHA1>b7bb7b8ac2964468f28eb0daaaed4155a94f7992</SHA1>
  </PackageUpdate>
 </Updates>
