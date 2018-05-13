@@ -1,0 +1,21 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.product</Name>
+  <DisplayName>Box Pricer</DisplayName>
+  <Description>Install the Box Pricer application.</Description>
+  <Version>0.1.1-2</Version>
+  <ReleaseDate>2018-04-14</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="24223159" OS="Any" CompressedSize="7103478"/>
+  <DownloadableArchives>bin.7z,data.7z,resources.7z</DownloadableArchives>
+  <Licenses>
+   <License file="GNUPLicenseV3.txt" name="GNU General Public License version 3"/>
+  </Licenses>
+  <SHA1>9623a6caca798c47851f9bdcf6962deeaa552ff7</SHA1>
+ </PackageUpdate>
+</Updates>
