@@ -1,0 +1,16 @@
+body
+{
+
+}
+div 
+{
+    width: centre;
+    padding: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    font-family: "Arial";
+    font-style: bold;
+    text-align: center;
+    font-size: 30px;
+}
