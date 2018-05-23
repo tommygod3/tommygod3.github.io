@@ -6,16 +6,16 @@
   <Name>com.vendor.product</Name>
   <DisplayName>Box Pricer</DisplayName>
   <Description>Install the Box Pricer application.</Description>
-  <Version>0.1.1-2</Version>
+  <Version>0.1.1-3</Version>
   <ReleaseDate>2018-04-14</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="24223159" CompressedSize="7102247" OS="Any"/>
+  <UpdateFile CompressedSize="7102247" UncompressedSize="24223159" OS="Any"/>
   <DownloadableArchives>bin.7z,data.7z,resources.7z</DownloadableArchives>
   <Licenses>
    <License name="GNU General Public License version 3" file="GNUPLicenseV3.txt"/>
   </Licenses>
-  <SHA1>f54c8828a2ca6e8d7a4eadcecdf2c96eb5dd5baf</SHA1>
+  <SHA1>9ec28e78ef99f721caba34c021fa3a2d3f3f0ea3</SHA1>
  </PackageUpdate>
 </Updates>
